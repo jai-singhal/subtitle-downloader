@@ -1,4 +1,4 @@
-# subtitle-downloader
+# Any Subtitle Downloader
 This is a simple Python Script to download subtitle of any video(tv show/ movies) in English in single click.
 
 This scripts uses and API http://thesubdb.com/api/, to get the hash code of the given file
@@ -28,5 +28,11 @@ folder by writing in address bar `shell:sendto`
 
 Step 3: Finish
 
+## Screenshots
+![1](https://user-images.githubusercontent.com/17959450/32063307-74505210-ba94-11e7-8dbf-aa60b0883c27.png)
+
+![2](https://user-images.githubusercontent.com/17959450/32063308-747d1944-ba94-11e7-9265-f09685cf9169.png)
+
+![3](https://user-images.githubusercontent.com/17959450/32063309-74b2501e-ba94-11e7-8a48-dfb0897f3a1b.png)
 
 
